@@ -1,6 +1,5 @@
 package data_structure_and_algorithms;
 
-import javax.net.ssl.SSLContext;
 import java.util.ArrayList;
 import java.util.LinkedList;
 
